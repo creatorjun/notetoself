@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Note to Self</string>
+    <string name="enter">메모를 입력하세요..</string>
+    <string name="add">추가</string>
+    <string name="update">수정</string>
+    <string name="delete">삭제</string>
+
+</resources>
